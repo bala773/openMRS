@@ -1,0 +1,1 @@
+checkout([$class: 'GitSCM', branches: [[name: '*/master']], extensions: [], userRemoteConfigs: [[credentialsId: 'SeleniumProj', url: 'https://github.com/bala773/openMRS.git']]])
