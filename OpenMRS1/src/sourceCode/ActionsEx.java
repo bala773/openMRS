@@ -91,7 +91,7 @@ public class ActionsEx {
 
 	}
 	public void takeScreenshot(WebDriver driver) throws IOException {
-		String folderPath = "D:/Bala Jelenium/OpenMRS/Screenshots/";
+		String folderPath = "C:\\Users\\Bala\\git\\openMRS\\OpenMRS1\\Screenshots\\";
 
 		Date dt = new Date();
 
